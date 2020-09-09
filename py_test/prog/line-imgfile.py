@@ -4,7 +4,7 @@ import requests
 def LineNotify():
 
 	# トークンと通知の設定(APIとtokenの宣言)
-	TOKEN = 'S6xW5T8mU6tL6eTwSCaiFfPncnd2S4Ws5IqZYXhlVo9' #　発行されたトークンを記載
+	TOKEN = 'hogehoge' #　発行されたトークンを記載
 	API = 'https://notify-api.line.me/api/notify' # このAPIにアクセスする
 	headers = {'Authorization': 'Bearer ' + TOKEN}
 
