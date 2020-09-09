@@ -11,5 +11,11 @@
   - JavaScript
   - JQuery
   - CSS
-- CGI実行
-- Terminal実行
+- 追加
+  - aplay
+  - cron
+- 実行  
+  - CGI
+  - Terminal
+  - WEBPage
+  - iPhone
