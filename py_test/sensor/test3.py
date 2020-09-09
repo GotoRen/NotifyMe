@@ -11,7 +11,7 @@ import urllib.request as req
 import json, subprocess
 
 # LINE Notify トークン - 以下を書き換えて利用します★
-TOKEN = 'S6xW5T8mU6tL6eTwSCaiFfPncnd2S4Ws5IqZYXhlVo9'
+TOKEN = 'hogehoge'
 API = 'https://notify-api.line.me/api/notify'
 
 # GPIOポートの設定
