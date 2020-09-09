@@ -1,13 +1,15 @@
 # project_NotifyMe
 - Project-Exercises-Ⅱ コード保存用
   - テストコードを保存
-- コード
+- 使用項目
   - LINE Notify API
   - Python3
-  - Open JTalk
-  - HTML
   - ShellScript
+  - OpenJTalk
+  - HTML
+  - PHP
   - JavaScript
+  - JQuery
   - CSS
 - CGI実行
 - Terminal実行
