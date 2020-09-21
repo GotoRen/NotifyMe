@@ -1,7 +1,6 @@
 # project_NotifyMe
 - Project-Exercises-Ⅱ
-  - テストコードを保存
-- 使用項目
+- _Contents_
   - LINE Notify API
   - Python3
   - ShellScript
@@ -11,10 +10,10 @@
   - JavaScript
   - JQuery
   - CSS
-- 追加
+- _Other_
   - aplay
   - cron
-- 実行  
+- _Run_  
   - CGI
   - Terminal
   - WEBPage
