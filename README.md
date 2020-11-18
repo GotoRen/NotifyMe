@@ -5,7 +5,7 @@
   - Me：私に
 
 ## Overview
-- RaspberryPiとLINE Notify API を使用した侵入検知者検知システム
+- RaspberryPiとLINE Notify API, OpenJTalk などを使用した侵入検知者検知システム
 - 侵入者を捉えるとLINEへ画像を送信
 - WEBアプリケーションを使用することで、備え付けのスピーカを利用して侵入者へ警告
   - オリジナルのメッセージを送信することもできる
