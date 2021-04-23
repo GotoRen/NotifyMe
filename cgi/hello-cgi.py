@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-# Header
+# header
 print("Content-Type : text/html; charset=utf-8")
 print("")
 
-# Body
-print("<h1>Hello!!!</h1>")
+# body
+print("<h1>Hello, World</h1>")
