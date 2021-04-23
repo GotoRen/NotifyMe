@@ -55,7 +55,7 @@ def beep():
 
 try: 
 	sw = 0 # 連続撮影防止
-    # 繰り返しセンサーの値を得る
+	# 繰り返しセンサーの値を得る
 	while True:
 		v = GPIO.input(SENSOR_PORT)
 		if v == 1:
