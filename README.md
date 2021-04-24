@@ -1,4 +1,4 @@
-# NotifyMe
+# notify-me
 ## 📚 Introduction
 - RaspberryPiとLINE Notify API, OpenJTalk などを使用した侵入検知者検知システム
 - 侵入者を捉えるとLINEへ画像を送信
