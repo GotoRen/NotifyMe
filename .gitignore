@@ -1,3 +1,6 @@
-### Global
+# General
 .DS_Store
 __pycache__
+
+# Env File
+.env
