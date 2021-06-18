@@ -1,10 +1,8 @@
 # notify-me
 ## 📚 Introduction
-- RaspberryPiとLINE Notify API, OpenJTalk などを使用した侵入検知者検知システム
-- 侵入者を捉えるとLINEへ画像を送信
-- WEBアプリケーションを使用することで、備え付けのスピーカを利用して侵入者へ警告
-  - オリジナルのメッセージを送信することもできる
-- 取得した画像は圧縮して一定期間ファイルサーバで保存
+This devices intruder detection system using Raspberry Pi（3 model B）and LINE Notify API.<br>
+When it catches an intruder, it sends an image to LINE.app. Then, the user performs a simple operation from the web application and uses the built in speaker to warn the intruder. Users can select the original message or template message, or alerts.<br>
+The taken image is also saved in LINE.app, but it can be saved in the file server (samba) for a certain period of time by applying compression processing.
 
 ## 💡 Overview
 ![poster](https://user-images.githubusercontent.com/63791288/99535123-cd19b700-29eb-11eb-87ed-bc09257cdd92.png)
@@ -14,3 +12,6 @@
 $ pip3 install python-dotenv 
 $ cp .env{.sample,}
 ```
+
+## 📝 License
+Released under the [MIT License](https://github.com/GotoRen/tls-imple/blob/master/LICENSE)
