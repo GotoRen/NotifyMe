@@ -14,4 +14,4 @@ $ cp .env{.sample,}
 ```
 
 ## 📝 License
-Released under the [MIT License](https://github.com/GotoRen/tls-imple/blob/master/LICENSE)
+Released under the [MIT License](https://github.com/GotoRen/notify-me/blob/feature%2Forganize/LICENCE)
